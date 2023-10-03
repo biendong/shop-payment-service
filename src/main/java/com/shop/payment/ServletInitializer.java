@@ -1,4 +1,4 @@
-package com.digital.payment;
+package com.shop.payment;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
